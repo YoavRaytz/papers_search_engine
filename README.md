@@ -187,7 +187,6 @@ Web Response               → Answer + Citations + Image
 - ✅ Docker deployment ready
 - ✅ Fully on-premise (no external APIs required for core features)
 - ✅ Memory-efficient (scalable to millions of records)
-- ✅ Dual endpoints: instant (`/api/query`) and streaming (`/stream`)
 - ✅ Real-time SSE streaming with word-by-word generation
 - ✅ Interactive GUI with streaming toggle
 - ✅ AI image generation with key concept extraction
