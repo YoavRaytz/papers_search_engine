@@ -27,7 +27,6 @@ RUN mkdir -p .index /data
 EXPOSE 8080
 
 # Set environment variables
-ENV DATA_PATH=/data/arxiv_2.9k.jsonl
 ENV INDEX_DIR=.index
 ENV PYTHONUNBUFFERED=1
 
