@@ -193,7 +193,3 @@ Web Response               → Answer + Citations + Image
 - ✅ Citation display with source attribution
 - ✅ Automatic index rebuilding on dataset changes
 
-## 📜 License
-
-MIT License
-
