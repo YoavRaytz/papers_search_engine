@@ -7,6 +7,10 @@ A production-ready Retrieval-Augmented Generation (RAG) system for querying acad
   An example of the demo
 </video>
 
+## 🎥 Demo
+![](demo.mp4)
+
+
 
 ## ✨ Features
 
