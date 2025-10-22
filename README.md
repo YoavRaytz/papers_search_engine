@@ -4,19 +4,10 @@ A production-ready Retrieval-Augmented Generation (RAG) system for querying acad
 
 
 ## 🎥 Demo
-![demo](demo.mp4)
-
-<video controls width="640">
-  <source src="demo.mp4" type="video/mp4">
-  An example of the demo
-</video>
-
-<h2>🎥 Demo</h2>
-<p>
-  <video src="demo.mp4" controls playsinline muted preload="metadata" width="720">
-    Your browser does not support HTML5 video.
-  </video>
+<p align="center">
+  <img src="demo.gif" width="720" alt="Demo preview">
 </p>
+
 
 ## ✨ Features
 
