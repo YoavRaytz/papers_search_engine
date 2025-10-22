@@ -2,6 +2,12 @@
 
 A production-ready Retrieval-Augmented Generation (RAG) system for querying academic papers using local LLM with streaming responses and AI image generation.
 
+<video controls width="640">
+  <source src="demo.mp4" type="video/mp4">
+  An example of the demo
+</video>
+
+
 ## ✨ Features
 
 - ✅ **Memory-Efficient**: Streams datasets without loading everything to RAM
