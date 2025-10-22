@@ -2,13 +2,14 @@
 
 A production-ready Retrieval-Augmented Generation (RAG) system for querying academic papers using local LLM with streaming responses and AI image generation.
 
+
+## 🎥 Demo
+![demo](demo.mp4)
+
 <video controls width="640">
   <source src="demo.mp4" type="video/mp4">
   An example of the demo
 </video>
-
-## 🎥 Demo
-![](demo.mp4)
 
 
 
